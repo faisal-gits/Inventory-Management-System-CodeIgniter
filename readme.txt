@@ -1,4 +1,4 @@
-Free Download Source Code "Inventory Management System"
+Inventory Management System
 
 FIRST Download
 
@@ -31,5 +31,6 @@ Admin
 user: admin@admin.com
 pass: password
 
-****** https://www.campcodes.com ******
-Subcribe my Youtube Channel **** SerBermz ****
+****** www.itguidebd.com ******
+System Dev. By Faisal Ahmed
+Copyright © itGuide. All rights reserved.
